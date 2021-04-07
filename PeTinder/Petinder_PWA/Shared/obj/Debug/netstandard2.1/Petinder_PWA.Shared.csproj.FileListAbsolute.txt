@@ -1,0 +1,9 @@
+C:\Users\rmadureira\source\repos\Petinder_PWA\Petinder_PWA\Shared\bin\Debug\netstandard2.1\Petinder_PWA.Shared.deps.json
+C:\Users\rmadureira\source\repos\Petinder_PWA\Petinder_PWA\Shared\bin\Debug\netstandard2.1\Petinder_PWA.Shared.dll
+C:\Users\rmadureira\source\repos\Petinder_PWA\Petinder_PWA\Shared\bin\Debug\netstandard2.1\Petinder_PWA.Shared.pdb
+C:\Users\rmadureira\source\repos\Petinder_PWA\Petinder_PWA\Shared\obj\Debug\netstandard2.1\Petinder_PWA.Shared.csprojAssemblyReference.cache
+C:\Users\rmadureira\source\repos\Petinder_PWA\Petinder_PWA\Shared\obj\Debug\netstandard2.1\Petinder_PWA.Shared.AssemblyInfoInputs.cache
+C:\Users\rmadureira\source\repos\Petinder_PWA\Petinder_PWA\Shared\obj\Debug\netstandard2.1\Petinder_PWA.Shared.AssemblyInfo.cs
+C:\Users\rmadureira\source\repos\Petinder_PWA\Petinder_PWA\Shared\obj\Debug\netstandard2.1\Petinder_PWA.Shared.csproj.CoreCompileInputs.cache
+C:\Users\rmadureira\source\repos\Petinder_PWA\Petinder_PWA\Shared\obj\Debug\netstandard2.1\Petinder_PWA.Shared.dll
+C:\Users\rmadureira\source\repos\Petinder_PWA\Petinder_PWA\Shared\obj\Debug\netstandard2.1\Petinder_PWA.Shared.pdb
